@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blockafric-test/static/css/main.d9f899dd.chunk.css",
+    "main.js": "/blockafric-test/static/js/main.221c3251.chunk.js",
+    "main.js.map": "/blockafric-test/static/js/main.221c3251.chunk.js.map",
+    "runtime-main.js": "/blockafric-test/static/js/runtime-main.1b85936f.js",
+    "runtime-main.js.map": "/blockafric-test/static/js/runtime-main.1b85936f.js.map",
+    "static/js/2.de41fe1e.chunk.js": "/blockafric-test/static/js/2.de41fe1e.chunk.js",
+    "static/js/2.de41fe1e.chunk.js.map": "/blockafric-test/static/js/2.de41fe1e.chunk.js.map",
+    "static/js/3.ec9c4234.chunk.js": "/blockafric-test/static/js/3.ec9c4234.chunk.js",
+    "static/js/3.ec9c4234.chunk.js.map": "/blockafric-test/static/js/3.ec9c4234.chunk.js.map",
+    "index.html": "/blockafric-test/index.html",
+    "static/css/main.d9f899dd.chunk.css.map": "/blockafric-test/static/css/main.d9f899dd.chunk.css.map",
+    "static/js/2.de41fe1e.chunk.js.LICENSE.txt": "/blockafric-test/static/js/2.de41fe1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b85936f.js",
+    "static/js/2.de41fe1e.chunk.js",
+    "static/css/main.d9f899dd.chunk.css",
+    "static/js/main.221c3251.chunk.js"
+  ]
+}
