@@ -1,4 +1,4 @@
-import BottomNav from "./components/BottomNav";
+import Footer from "./components/Footer";
 import Card from "./components/Card";
 import Exchange from "./components/Exchange";
 import Navbar from "./components/Navbar";
@@ -6,7 +6,7 @@ import Transactions from "./components/Transactions";
 
 export default function App() {
 	return (
-		<>
+		<div className="flex flex-col h-full">
 			<div className="bg-white p-3">
 				<Navbar />
 				<Card />
@@ -15,7 +15,7 @@ export default function App() {
 				<Exchange />
 				<Transactions />
 			</div>
-			<BottomNav />
-		</>
+			<Footer />
+		</div>
 	);
 }
