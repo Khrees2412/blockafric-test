@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/blockafric-test/static/css/main.d9f899dd.chunk.css",
-    "main.js": "/blockafric-test/static/js/main.221c3251.chunk.js",
-    "main.js.map": "/blockafric-test/static/js/main.221c3251.chunk.js.map",
-    "runtime-main.js": "/blockafric-test/static/js/runtime-main.1b85936f.js",
-    "runtime-main.js.map": "/blockafric-test/static/js/runtime-main.1b85936f.js.map",
-    "static/js/2.de41fe1e.chunk.js": "/blockafric-test/static/js/2.de41fe1e.chunk.js",
-    "static/js/2.de41fe1e.chunk.js.map": "/blockafric-test/static/js/2.de41fe1e.chunk.js.map",
-    "static/js/3.ec9c4234.chunk.js": "/blockafric-test/static/js/3.ec9c4234.chunk.js",
-    "static/js/3.ec9c4234.chunk.js.map": "/blockafric-test/static/js/3.ec9c4234.chunk.js.map",
+    "main.css": "/blockafric-test/static/css/main.98c33a38.chunk.css",
+    "main.js": "/blockafric-test/static/js/main.fc9bce43.chunk.js",
+    "main.js.map": "/blockafric-test/static/js/main.fc9bce43.chunk.js.map",
+    "runtime-main.js": "/blockafric-test/static/js/runtime-main.b126e7a5.js",
+    "runtime-main.js.map": "/blockafric-test/static/js/runtime-main.b126e7a5.js.map",
+    "static/js/2.90c34327.chunk.js": "/blockafric-test/static/js/2.90c34327.chunk.js",
+    "static/js/2.90c34327.chunk.js.map": "/blockafric-test/static/js/2.90c34327.chunk.js.map",
+    "static/js/3.24de0c23.chunk.js": "/blockafric-test/static/js/3.24de0c23.chunk.js",
+    "static/js/3.24de0c23.chunk.js.map": "/blockafric-test/static/js/3.24de0c23.chunk.js.map",
     "index.html": "/blockafric-test/index.html",
-    "static/css/main.d9f899dd.chunk.css.map": "/blockafric-test/static/css/main.d9f899dd.chunk.css.map",
-    "static/js/2.de41fe1e.chunk.js.LICENSE.txt": "/blockafric-test/static/js/2.de41fe1e.chunk.js.LICENSE.txt"
+    "static/css/main.98c33a38.chunk.css.map": "/blockafric-test/static/css/main.98c33a38.chunk.css.map",
+    "static/js/2.90c34327.chunk.js.LICENSE.txt": "/blockafric-test/static/js/2.90c34327.chunk.js.LICENSE.txt",
+    "static/media/activity.b420d676.svg": "/blockafric-test/static/media/activity.b420d676.svg",
+    "static/media/alarm.73fe7493.svg": "/blockafric-test/static/media/alarm.73fe7493.svg",
+    "static/media/avatar.b203efc6.svg": "/blockafric-test/static/media/avatar.b203efc6.svg",
+    "static/media/earn.bd16fcbf.svg": "/blockafric-test/static/media/earn.bd16fcbf.svg",
+    "static/media/home.4b0d9872.svg": "/blockafric-test/static/media/home.4b0d9872.svg",
+    "static/media/market.01fbf1ea.svg": "/blockafric-test/static/media/market.01fbf1ea.svg",
+    "static/media/wallet.dab30ac3.svg": "/blockafric-test/static/media/wallet.dab30ac3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b85936f.js",
-    "static/js/2.de41fe1e.chunk.js",
-    "static/css/main.d9f899dd.chunk.css",
-    "static/js/main.221c3251.chunk.js"
+    "static/js/runtime-main.b126e7a5.js",
+    "static/js/2.90c34327.chunk.js",
+    "static/css/main.98c33a38.chunk.css",
+    "static/js/main.fc9bce43.chunk.js"
   ]
 }
